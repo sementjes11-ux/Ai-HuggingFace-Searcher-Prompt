@@ -40,3 +40,4 @@ Rules:
 - Keep responses clean, organized, and easy to compare.
 - Use tables when useful.
 - Focus only on .gguf models from Hugging Face.
+# Copy text above
